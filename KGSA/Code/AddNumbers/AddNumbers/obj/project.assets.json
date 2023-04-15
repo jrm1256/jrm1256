@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmosi\\OneDrive\\KGSA\\Code\\AddNumbers\\AddNumbers\\AddNumbers.csproj",
+      "projectUniqueName": "C:\\Git\\GitHub\\jrm1256\\KGSA\\Code\\AddNumbers\\AddNumbers\\AddNumbers.csproj",
       "projectName": "AddNumbers",
-      "projectPath": "C:\\Users\\jmosi\\OneDrive\\KGSA\\Code\\AddNumbers\\AddNumbers\\AddNumbers.csproj",
+      "projectPath": "C:\\Git\\GitHub\\jrm1256\\KGSA\\Code\\AddNumbers\\AddNumbers\\AddNumbers.csproj",
       "packagesPath": "C:\\Users\\jmosi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmosi\\OneDrive\\KGSA\\Code\\AddNumbers\\AddNumbers\\obj\\",
+      "outputPath": "C:\\Git\\GitHub\\jrm1256\\KGSA\\Code\\AddNumbers\\AddNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jmosi\\AppData\\Roaming\\NuGet\\NuGet.Config",
