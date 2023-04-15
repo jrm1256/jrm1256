@@ -1,0 +1,15 @@
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\bin\Debug\net6.0\AddNumbers.exe
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\bin\Debug\net6.0\AddNumbers.deps.json
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\bin\Debug\net6.0\AddNumbers.runtimeconfig.json
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\bin\Debug\net6.0\AddNumbers.dll
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\bin\Debug\net6.0\AddNumbers.pdb
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\obj\Debug\net6.0\AddNumbers.csproj.AssemblyReference.cache
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\obj\Debug\net6.0\AddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\obj\Debug\net6.0\AddNumbers.AssemblyInfoInputs.cache
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\obj\Debug\net6.0\AddNumbers.AssemblyInfo.cs
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\obj\Debug\net6.0\AddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\obj\Debug\net6.0\AddNumbers.dll
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\obj\Debug\net6.0\refint\AddNumbers.dll
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\obj\Debug\net6.0\AddNumbers.pdb
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\obj\Debug\net6.0\AddNumbers.genruntimeconfig.cache
+C:\Users\jmosi\OneDrive\KGSA\Code\AddNumbers\AddNumbers\obj\Debug\net6.0\ref\AddNumbers.dll
